@@ -3,4 +3,4 @@ __pycache__
 figctx.egg-info
 .venv
 .coverage
-test_*.py
+.pytest_cache
