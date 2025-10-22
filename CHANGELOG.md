@@ -4,3 +4,7 @@
 - Added features : single, multi, circuit
 - Added categorical & sequential palettes
 
+
+# v0.1.1 - Small Changes
+
+- README edit
