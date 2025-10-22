@@ -1,0 +1,6 @@
+__pycache__
+.pytest_cache
+figctx.egg-info
+.venv
+.coverage
+test_*.py
