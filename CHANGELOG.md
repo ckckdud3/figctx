@@ -5,6 +5,7 @@
 - Added categorical & sequential palettes
 
 
-# v0.1.1 - Small Changes
+# v0.1.1 ~ v0.1.2 - Small Changes
 
 - README edit
+
