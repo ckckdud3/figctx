@@ -23,7 +23,7 @@ with ctx.single(80, 60, './example.png') as (fig,ax):
     ax.set_title('title')
 ```
 
-![Example Single Figure](./resource/example.png)
+![Example Single Figure](https://raw.githubusercontent.com/ckckdud3/figctx/refs/heads/main/resource/example.png?token=GHSAT0AAAAAADNSDYSZZM74LRWVDDLNWGI62HYOFAA)
 
 
 ## Example2 (multi figure context)
@@ -91,4 +91,4 @@ with ctx.multi(70, 150, 2, 1, [1], [1,2], './example2.png') as (fig, subfig):
     fig.suptitle('Suptitle')
 ```
 
-![Example Multi Figure](./resource/example2.png)
+![Example Multi Figure](https://raw.githubusercontent.com/ckckdud3/figctx/refs/heads/main/resource/example2.png?token=GHSAT0AAAAAADNSDYSYJ2KP4PNZLL2NCF2C2HYOFMQ)
